@@ -12,6 +12,7 @@ Main App was build by using **Flask** Where as Server App was Build Using **Djan
 3. Install Django Rest Framework using  `pip install djangorestframework`
 4. Postman from https://www.postman.com/downloads/
 5. CloudAMQP Account
+6. MySQL
 #### How to Run in Local Environment
 1. Git Clone or Download the Repository into your local Machine
 2. Open Your Command Prompt and Direct it towards the local Repository
